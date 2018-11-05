@@ -37,3 +37,5 @@ descriptions:
     desc: "Just some placeholder posts, lorem ipsum and the rest."
 
 remote_theme: ezlifebio/ezlifebio.github.io
+
+theme: jekyll-theme-cayman
