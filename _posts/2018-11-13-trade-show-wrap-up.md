@@ -11,7 +11,4 @@ EZLife Bio's Founder and CEO, Dr. Wei Liao, explaining the EFIRM platform and te
 <img src="/img/news/acs.jpg">
 
 EZLife Bio's Director of Research and Development, Dr. Michae Tu at the World Congress of Biosensors meeting in Miami, Florida
-<img src="/img/news/wcb.png">
-
-EZLife Bio's VP of Product, Mykie Lee at the American Society of Human Genetics meeting in San Diego, California.
-<img src="/img/news/ashg.jpg">
+<img src="/img/news/wcb.png>
