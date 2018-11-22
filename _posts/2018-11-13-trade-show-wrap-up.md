@@ -12,4 +12,4 @@ EZLife Bio's Founder and CEO, Dr. Wei Liao, explaining the EFIRM platform and te
 
 EZLife Bio's Director of Research and Development, Dr. Michael Tu at the World Congress of Biosensors meeting in Miami, Florida.
 
-<img src="/img/news/wcb.png>
+<img src="/img/news/wcb.png">
