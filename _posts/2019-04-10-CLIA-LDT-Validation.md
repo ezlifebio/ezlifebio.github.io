@@ -9,6 +9,6 @@ April 10th, 2019 - EZLife Bio and UCLA recently completed a major milestone in t
 This completion is a major milestone, demonstrating that EFIRM is a highly reproducible and stable platform for perform liquid biopsy directly from patient specimens. Instead of taking large volumes of blood, EFIRM is a technology that can enable the rapid detection of lung cancer related mutations directly from a drop of blood or saliva. Any clinically viable test must pass qualification as a CLIA-LDT, and EFIRM's EGFR Liquid Biopsy achieving this is a major roadmark for transforming molecular diagnostics!
 
 
-<img src="/img/news/2019-04-10-clia-ldt-efirm.png">
+<img src="/img/news/2019-04-10-clia-ldt-efirm.jpg">
 
 From left to right: Drs. David Wong, Charles Strom, Michael Tu, Paul Krebsbach (Dean), Richard Bender, and Josh Deignan. Dr. Michael Tu is the R&D Director of EZLife Bio Inc. 
