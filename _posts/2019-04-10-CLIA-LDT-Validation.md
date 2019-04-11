@@ -13,4 +13,4 @@ This completion is a major milestone, demonstrating that EFIRM is a highly repro
 
 From left to right: Drs. David Wong, Charles Strom, Michael Tu, Paul Krebsbach (Dean), Richard Bender, and Josh Deignan. Dr. Michael Tu is the R&D Director of EZLife Bio Inc. 
 
-<a href="https://www.dentistry.ucla.edu/news/early-cancer-detection-liquid-biopsy-technology-receives-regulatory-approval> Read more about it at the UCLA School of Dentistry website</a>
+<a href="https://www.dentistry.ucla.edu/news/early-cancer-detection-liquid-biopsy-technology-receives-regulatory-approval"> Read more about it at the UCLA School of Dentistry website</a>
