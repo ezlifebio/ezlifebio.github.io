@@ -14,7 +14,7 @@ EFIRM was able to sensitively and accurate mirror the results of other technolog
 
 <img src="https://raw.githubusercontent.com/ezlifebio/ezlifebio.github.io/master/img/news/2020-07-24-01.png">
 
-<a href="https://www.frontiersin.org/articles/10.3389/fonc.2020.01240/full"> Link to Article on Frontiers</a>
+<a href="https://www.frontiersin.org/articles/10.3389/fonc.2020.01240/full"> Figure from Li et al. in Frontiers</a>
 
 ## EFIRM for detecting Ultra-Short Circulating Tumor DNA of Non-Small Cell Lung Cancer (NSCLC) Patients 
 
@@ -23,14 +23,14 @@ Dr. Feng Li of the UCLA School of Dentistry recently performed a detailed evalua
 <img src="https://raw.githubusercontent.com/ezlifebio/ezlifebio.github.io/master/img/news/2020-07-24-02.png">
 
 
-<a href="https://www.mdpi.com/2072-6694/12/8/2041"> Link to Article in Cancer</a>
+<a href="https://www.mdpi.com/2072-6694/12/8/2041"> Figure from Li et al. in Cancer</a>
 
 
 ## EFIRM for application as a clinical assay
 
 A culmination of years of translational development, EFIRM has gone through rigorous evaluation and validation at multiple clinical laboratories. A recent publications spearheaded by Dr's Michael Tu and Jordan Cheng demonstrate the viability of EFIRM as a tool for clinical diagnostics through a series of technical validations. 
 
-<a href="https://jmd.amjpathol.org/article/S1525-1578(20)30350-0/abstract1"> Link to Article in the Journal of Molecular Diagnostics</a>
+<a href="https://jmd.amjpathol.org/article/S1525-1578(20)30350-0/abstract1"> Link to Abstract in the Journal of Molecular Diagnostics</a>
 
 
 ### Links to Articles
