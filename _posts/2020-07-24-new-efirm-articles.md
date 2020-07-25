@@ -14,7 +14,7 @@ EFIRM was able to sensitively and accurate mirror the results of other technolog
 
 <img src="https://raw.githubusercontent.com/ezlifebio/ezlifebio.github.io/master/img/news/2020-07-24-01.png">
 
-<a href="https://www.frontiersin.org/articles/10.3389/fonc.2020.01240/full"> Figure from Li et al. in Frontiers</a>
+<a href="https://www.frontiersin.org/articles/10.3389/fonc.2020.01240/full"> Figure from Li et al. in Frontiers of Oncology</a>
 
 ## EFIRM for detecting Ultra-Short Circulating Tumor DNA of Non-Small Cell Lung Cancer (NSCLC) Patients 
 
