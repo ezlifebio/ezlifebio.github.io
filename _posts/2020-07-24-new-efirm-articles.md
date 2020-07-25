@@ -23,7 +23,7 @@ Dr. Feng Li of the UCLA School of Dentistry recently performed a detailed evalua
 <img src="https://raw.githubusercontent.com/ezlifebio/ezlifebio.github.io/master/img/news/2020-07-24-02.png">
 
 
-<a href="https://www.mdpi.com/2072-6694/12/8/2041"> Figure from Li et al. in Cancer</a>
+<a href="https://www.mdpi.com/2072-6694/12/8/2041"> Figure from Li et al. in Cancers</a>
 
 
 ## EFIRM for application as a clinical assay
