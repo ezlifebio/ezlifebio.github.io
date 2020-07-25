@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EFIRM for Lung Cancer: Latest Update"
+title: "EFIRM for Lung Cancer: Latest Update (3 Papers)"
 author: "EZLife Bio"
 ---
 
