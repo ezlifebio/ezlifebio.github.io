@@ -4,7 +4,7 @@ title: "EFIRM for Lung Cancer: Latest Update"
 author: "EZLife Bio"
 ---
 
-Three exciting new papers have been published on the EFIRM technology, again showing EFIRM's immense viability as a tool for liquid biopsy of cancer. 
+Three exciting new papers have been published on the EFIRM technology, continuing to show EFIRM's immense viability as a tool for liquid biopsy of cancer. 
 
 ## EFIRM for Monitoring of Lung Cancer Mutations
 
