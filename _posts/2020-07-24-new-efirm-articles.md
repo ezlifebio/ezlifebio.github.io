@@ -33,7 +33,7 @@ A culmination of years of translational development, EFIRM has gone through rigo
 <a href="https://jmd.amjpathol.org/article/S1525-1578(20)30350-0/abstract1"> Link to Abstract in the Journal of Molecular Diagnostics</a>
 
 
-## Links to Articles
+## References Cited
 
 [1] https://www.frontiersin.org/articles/10.3389/fonc.2020.01240/full
 
